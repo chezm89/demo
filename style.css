@@ -1,0 +1,15 @@
+.catalog-img {
+    display: flex;
+}
+
+.first-col-img img {
+    width: 300px;
+}
+
+.sec-col {
+    margin-left: 10px;
+}
+
+.sec-col img {
+    width: 148px;
+}
